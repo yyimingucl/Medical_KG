@@ -6,10 +6,11 @@ the main structure and part of data are from https://github.com/liuhuanyong/QASy
 The project mainly depends on the structure from https://github.com/liuhuanyong/QASystemOnMedicalKG. Apart from that, adding the drug recommend system on it and the drug data( original sql file) is from https://www.jiankangle.com/healthMall/category;jsessionid=FDC570E85A0BE68990B51FAB6307B454.
 
 ### Disease Data (2 types)
+![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599125227(1).png)
 
-
+![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599125801(1).png)
 ### Medicine Data
-
+![image](https://github.com/MissuQAQ/Medical_KG/blob/master/image_file/1599125871(1).png)
 
 KG_data.py: match the disease and medicine (but the result is not so good)
 KG_parameters.py: store the various paths of data
@@ -26,10 +27,10 @@ It contains 9 kinds of nodes (category of drug, drug, disease,symptom, food, dep
 Totally 28000 entity nodes and 360000 relationships
 
 ### Neo4j DataBase
+![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599126788(1).png)
 
-
-### CMD Results
-
+### Command Line Results
+![image]()
 ## 3. Further Thoughts
 
 
