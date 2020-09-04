@@ -30,7 +30,7 @@ Totally 28000 entity nodes and 360000 relationships
 ![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599126788(1).png)
 
 ### Command Line Results
-![image]()
+![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599193907(1).png)
 ## 3. Further Thoughts
 
 
