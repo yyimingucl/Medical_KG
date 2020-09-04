@@ -4,7 +4,11 @@ the main structure and part of data are from https://github.com/liuhuanyong/QASy
 
 ## 1.Intro 
 
-The project mainly depends on the structure from https://github.com/liuhuanyong/QASystemOnMedicalKG. Apart from that, adding the drug recommend system on it and the drug data  is from https://www.jiankangle.com/healthMall/category;jsessionid=FDC570E85A0BE68990B51FAB6307B454.
+The project mainly depends on the structure from 
+
+https://github.com/liuhuanyong/QASystemOnMedicalKG. 
+
+Apart from that, adding the drug recommend system on it and the drug data  is from https://www.jiankangle.com/healthMall/category;jsessionid=FDC570E85A0BE68990B51FAB6307B454.
 
 ### Disease Data (2 types)
 ![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599125227(1).png)
