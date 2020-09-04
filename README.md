@@ -8,7 +8,9 @@ The project mainly depends on the structure from
 
 https://github.com/liuhuanyong/QASystemOnMedicalKG. 
 
-Apart from that, adding the drug recommend system on it and the drug data  is from https://www.jiankangle.com/healthMall/category;jsessionid=FDC570E85A0BE68990B51FAB6307B454.
+Apart from that, adding the drug recommend system on it and the drug data  is from
+
+https://www.jiankangle.com/healthMall/category;jsessionid=FDC570E85A0BE68990B51FAB6307B454.
 
 ### Disease Data (2 types)
 ![image](https://raw.githubusercontent.com/MissuQAQ/Medical_KG/master/image_file/1599125227(1).png)
@@ -18,12 +20,19 @@ Apart from that, adding the drug recommend system on it and the drug data  is fr
 ![image](https://github.com/MissuQAQ/Medical_KG/blob/master/image_file/1599125871(1).png)
 
 KG_data.py: match the disease and medicine (but the result is not so good)
+
 KG_parameters.py: store the various paths of data
+
 KG_functions.py: store some used functions in this project
+
 build_graph.py: upload the structured data to neo4j database
+
 classifier: classify the intention of the patient's query
+
 paser.py: transfer to required sql query sentence
+
 searcher.py: return the information queried
+
 drug_recommend.py: return the recommended drug
 
 
