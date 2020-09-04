@@ -2,7 +2,16 @@
 Medical Knowledge Graph 
 the main structure and part of data are from https://github.com/liuhuanyong/QASystemOnMedicalKG
 
-## 1.Intro 
+## 1.Environments
+python == 3.7.0
+
+neo4j == 4.1.0
+
+py2neo == 4.3.0
+
+pymysql == 0.10.0
+
+## 2.Intro 
 
 The project mainly depends on the structure from 
 
@@ -36,7 +45,7 @@ searcher.py: return the information queried
 drug_recommend.py: return the recommended drug
 
 
-## 2.Knowledge Graph
+## 3.Knowledge Graph
 
 It contains 9 kinds of nodes (category of drug, drug, disease,symptom, food, department, check, parts) and 12 kinds of relationships
 Totally 28000 entity nodes and 360000 relationships
@@ -49,7 +58,7 @@ Totally 28000 entity nodes and 360000 relationships
 
 
 
-## 3.Further Thoughts
+## 4.Further Thoughts
 the main method to classify question and name entity is based on string matching which is highly dependent on the size of vocabulary and not flexible. 
 
 Further Suggestion:
